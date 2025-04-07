@@ -15,12 +15,20 @@ This project simulates a basic IT Infrastructure Support task: **automated syste
 ## 📁 Folder Structure
 
 IT-Support-Lab/
-│
-├── Scripts/
-│   └── monitor.ps1               ← Your PowerShell monitoring script
-│
-├── Reports/
-│   └── (Sample CSV files)        ← Example output from your script
-│
-├── Logs/
-    └── monitor-log.txt           ← Sample log output
+├── Scripts/→ PowerShell monitoring script
+├── Reports/Output files (CSV format)
+├── Logs/→ Script execution logs
+   
+## 🔧 Technologies Used
+
+- PowerShell
+- Windows Task Scheduler
+- CSV Logging
+- Windows System Utilities
+
+## 🧠 Learning Outcome
+
+- Basic system administration tasks
+- Script automation & logging
+- Practical IT Support simulation
+
